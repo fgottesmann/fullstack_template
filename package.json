@@ -9,6 +9,7 @@
     "eslint": "eslint .",
     "stylelint": "stylelint '**/*.css'",
     "stylelint-check": "stylelint-config-prettier-check",
+    "prettify": "prettier --write .",
     "prettycheck": "prettier --check .",
     "prepare": "husky install",
     "typecheck": "tsc",
