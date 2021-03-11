@@ -32,3 +32,15 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Dependencies
+
+- https://nextjs.org/learn/excel/typescript
+- https://prettier.io/docs/en/install.html
+- https://eslint.org/docs/user-guide/getting-started
+- https://github.com/prettier/eslint-config-prettier
+- https://stylelint.io/user-guide/get-started
+- https://github.com/prettier/stylelint-config-prettier
+- https://typicode.github.io/husky/
+- https://github.com/okonet/lint-staged
+- https://storybook.js.org/docs/react/get-started/install
